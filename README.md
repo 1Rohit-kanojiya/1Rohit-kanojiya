@@ -11,6 +11,16 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms And React.js**
 
+- 🌱 I’m **fresher** 
+
+- 🌱 currently, I am studying in the **2nd year of my college*
+
+- 🌱 I am pursuing **Bvoc in software development degree from Jai hind college, Mumbai**
+
+- 👨‍ I am a **Youtuber**
+
+- 👨‍ I am using youtube for **uploading all my projects.**
+
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
@@ -68,7 +78,7 @@
 <a href = "https://www.linkedin.com/in/rohit-kanojiya-5036a8211/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@ROHITKA64828911"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/programmer_578/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<a href = "https://www.youtube.com/channel/UC3alEKFoEHJR700PcOGIyag"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
